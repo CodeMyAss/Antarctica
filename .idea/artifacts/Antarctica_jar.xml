@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Antarctica:jar">
+    <output-path>$USER_HOME$/Desktop/other server/plugins</output-path>
+    <root id="archive" name="Antarctica.jar">
+      <element id="module-output" name="Antarctica" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.11.0/mongo-java-driver-2.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/redis/clients/jedis/2.5.1/jedis-2.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20090211/json-20090211.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-pool2/2.0/commons-pool2-2.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
